@@ -141,6 +141,7 @@
 	return radius;
 }
 - (void)drawThumbAtPoint:(CGPoint)sliderButtonCenterPoint inContext:(CGContextRef)context {
+	return;
 	UIGraphicsPushContext(context);
 	CGContextBeginPath(context);
 	
