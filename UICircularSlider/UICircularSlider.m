@@ -114,7 +114,7 @@
 	self.value = 0.0;
 	self.minimumValue = 0.0;
 	self.maximumValue = 1.0;
-	self.minimumTrackTintColor = UIColorFromRGB( 0x3bc552 );
+	self.minimumTrackTintColor = UIColorFromRGB( 0x71bf44 );
 	self.maximumTrackTintColor = UIColorFromRGB( 0xe4e4e4 );
 	self.thumbTintColor = [UIColor lightGrayColor];
 	self.continuous = YES;
