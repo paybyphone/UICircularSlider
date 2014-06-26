@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "UICircularSlider"
-  s.version      = "1.0.5"
+  s.version      = "1.0.6"
   s.summary      = "An iOS UISlider which displays value in a circle / pie."
 
   s.description  = <<-DESC
